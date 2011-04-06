@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*.war
+*~
+.DS_Store
+._*
+*.aux
+*.log
+*.pdf
